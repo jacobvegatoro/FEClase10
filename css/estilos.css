@@ -1,9 +1,14 @@
 body{
-    background-color: blue;
+    background-color: blueviolet;
     color: antiquewhite;
 }
 
 h1{
     color: cyan;
     font-size: 30px;
+}
+
+h3{
+    color: crimson;
+    font-size: 20px;
 }
